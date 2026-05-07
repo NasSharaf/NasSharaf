@@ -1,6 +1,6 @@
 # Nasir Sharaf
 
-AI/ML engineer with a physical engineering foundation — 3 years implementing building automation, PLCs, and energy systems at Siemens; co-op at DTE Energy; US patent in solar optimization. Now building production AI systems: agentic ETL pipelines, edge ML deployment, and NLP research with measurable results.
+Software Engineer building towards AI/ML with a physical engineering foundation — 3 years implementing building automation, PLCs, and energy systems at Siemens; co-op at DTE Energy; US patent in solar optimization. Now building production AI systems: agentic ETL pipelines, edge ML deployment, and NLP research with measurable results.
 
 Currently:
 - **AI/Data Ingestion Engineer @ Rivora** (full-time contract) — agentic ETL pipelines using LLMs to normalize 3PL carrier rate cards at scale
