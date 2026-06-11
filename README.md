@@ -18,7 +18,7 @@ Currently:
 
 **[ECOcalc](https://github.com/NasSharaf/ECOcalc)** — Python library and Flask demo for calculating energy conservation opportunities (ECOs); draws on 3 years of energy engineering fieldwork at Siemens
 
-**[Rashomon](https://github.com/NasSharaf/Newsbetting-rashomon)** — Django/PostgreSQL web app designed to combat disinformation through news source bias detection; deployed on DigitalOcean
+**[Rashomon](https://github.com/NasSharaf/Newsbetting/rashomon)** — Django/PostgreSQL web app designed to combat disinformation through news source bias detection; deployed on DigitalOcean
 
 ---
 
