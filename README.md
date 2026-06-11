@@ -20,6 +20,8 @@ Currently:
 
 **[Rashomon](https://github.com/Newsbetting/rashomon)** — Django/PostgreSQL web app designed to combat disinformation through news source bias detection; deployed on DigitalOcean
 
+**[Deep Immunity](https://github.com/NasSharaf/DeepImmunity)** —  Masters Thesis on Artificial Immune systems for detecting physics based attacks in industrial control systems using taint analysis
+
 ---
 
 ## Background
